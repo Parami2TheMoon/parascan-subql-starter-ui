@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/parascan-subql-starter-ui/static/js/main.168a118d.js",
+    "static/js/787.dd015d5c.chunk.js": "/parascan-subql-starter-ui/static/js/787.dd015d5c.chunk.js",
+    "index.html": "/parascan-subql-starter-ui/index.html",
+    "main.168a118d.js.map": "/parascan-subql-starter-ui/static/js/main.168a118d.js.map",
+    "787.dd015d5c.chunk.js.map": "/parascan-subql-starter-ui/static/js/787.dd015d5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.168a118d.js"
+  ]
+}
